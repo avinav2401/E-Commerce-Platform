@@ -72,6 +72,7 @@ A full-stack e-commerce application built with the MERN stack (MongoDB, Express,
 
 - `backend/`: Server-side code (Express, Mongoose models, controllers).
 - `frontend/`: Client-side code (React components, Redux slices, Pages).
+- `ecommerce-platform/`: Next.js frontend code.
 
 ## Credits
 
